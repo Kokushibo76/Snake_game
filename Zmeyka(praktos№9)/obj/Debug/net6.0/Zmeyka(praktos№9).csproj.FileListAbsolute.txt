@@ -1,0 +1,14 @@
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln\9Практическая\Zmeyka(praktos№9)\Zmeyka(praktos№9)\bin\Debug\net6.0\Zmeyka(praktos№9).exe
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln\9Практическая\Zmeyka(praktos№9)\Zmeyka(praktos№9)\bin\Debug\net6.0\Zmeyka(praktos№9).deps.json
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln\9Практическая\Zmeyka(praktos№9)\Zmeyka(praktos№9)\bin\Debug\net6.0\Zmeyka(praktos№9).runtimeconfig.json
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln\9Практическая\Zmeyka(praktos№9)\Zmeyka(praktos№9)\bin\Debug\net6.0\Zmeyka(praktos№9).dll
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln\9Практическая\Zmeyka(praktos№9)\Zmeyka(praktos№9)\bin\Debug\net6.0\Zmeyka(praktos№9).pdb
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln\9Практическая\Zmeyka(praktos№9)\Zmeyka(praktos№9)\obj\Debug\net6.0\Zmeyka(praktos№9).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln\9Практическая\Zmeyka(praktos№9)\Zmeyka(praktos№9)\obj\Debug\net6.0\Zmeyka(praktos№9).AssemblyInfoInputs.cache
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln\9Практическая\Zmeyka(praktos№9)\Zmeyka(praktos№9)\obj\Debug\net6.0\Zmeyka(praktos№9).AssemblyInfo.cs
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln\9Практическая\Zmeyka(praktos№9)\Zmeyka(praktos№9)\obj\Debug\net6.0\Zmeyka(praktos№9).csproj.CoreCompileInputs.cache
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln\9Практическая\Zmeyka(praktos№9)\Zmeyka(praktos№9)\obj\Debug\net6.0\Zmeyka(praktos№9).dll
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln\9Практическая\Zmeyka(praktos№9)\Zmeyka(praktos№9)\obj\Debug\net6.0\refint\Zmeyka(praktos№9).dll
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln\9Практическая\Zmeyka(praktos№9)\Zmeyka(praktos№9)\obj\Debug\net6.0\Zmeyka(praktos№9).pdb
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln\9Практическая\Zmeyka(praktos№9)\Zmeyka(praktos№9)\obj\Debug\net6.0\Zmeyka(praktos№9).genruntimeconfig.cache
+C:\Users\nfrol\Desktop\МПТ 2 курс\Prog.sln\9Практическая\Zmeyka(praktos№9)\Zmeyka(praktos№9)\obj\Debug\net6.0\ref\Zmeyka(praktos№9).dll
